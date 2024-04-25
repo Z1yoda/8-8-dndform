@@ -1,0 +1,62 @@
+.ketmaketlik {
+  margin-top: 16px;
+  margin-bottom: 242px;
+  display: flex;
+  flex-direction: column;
+  width: 1360px;
+  padding: 24px;
+  border: 1px solid rgb(226, 226, 234);
+  border-radius: 16px;
+  background: rgb(248, 248, 248);
+}
+
+.ketmaketlik h1 {
+  margin-left: 0;
+}
+
+.input-menu {
+  cursor: pointer;
+  text-align: center;
+  margin-top: 24px;
+  display: flex;
+  gap: 16px;
+}
+
+#ustunNomi,
+#key {
+  width: 103px;
+  height: 48px;
+}
+
+.input {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+
+.form-label {
+  display: inline;
+  font-size: 16px;
+  color: rgb(68, 68, 79);
+  font-weight: 600;
+  line-height: 20px;
+  letter-spacing: 0px;
+}
+
+.addSquare {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin-top: 24px;
+}
+
+.addSquare h2 {
+  color: rgb(0, 98, 255);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0px;
+  text-align: left;
+  margin-bottom: 0;
+  cursor: pointer;
+}

@@ -1,0 +1,111 @@
+.product-wrapper {
+  box-sizing: border-box;
+  border: 1px solid rgb(226, 226, 234);
+  border-radius: 24px;
+  width: 1392px;
+  padding: 24px 16px;
+  margin-top: 24px;
+}
+
+.ortga-davom {
+  width: 637px;
+  display: flex;
+  align-items: center;
+}
+
+.shadoww {
+  width: 100%;
+  box-shadow: inset 0px -1px 0px 0px rgb(226, 226, 234);
+  padding: 16px;
+}
+
+.ortga-davom h1,
+.ketmaketlik h1 {
+  color: rgb(23, 23, 37);
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+  letter-spacing: 0.1px;
+  margin-left: 24px;
+  margin-right: 10px;
+}
+
+.buttons {
+  display: flex;
+  gap: 16px;
+}
+
+.button1 {
+  border: none;
+  width: 150px;
+  height: 48px;
+  padding: 12px 51px;
+  border-radius: 10px;
+  background: rgb(226, 226, 234);
+  color: rgb(146, 146, 157);
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.button2 {
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  border-radius: 10px;
+  color: rgb(255, 255, 255);
+  background: rgb(0, 98, 255);
+  line-height: 24px;
+  letter-spacing: 0.1px;
+  padding: 12px 18px;
+  font-size: 16px;
+}
+
+.button2 img {
+  margin-left: 8px;
+  display: block;
+}
+
+.projects {
+  width: 1360px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  border: 1px solid rgb(226, 226, 234);
+  border-radius: 16px;
+  margin-top: 16px;
+  background: rgb(248, 248, 248);
+  padding: 24px;
+}
+
+.firstLine,
+.secondLine {
+  display: flex;
+  gap: 12px;
+}
+
+.firstLine {
+  margin-bottom: 24px;
+}
+.project {
+  width: 250px;
+  height: 68px;
+  padding: 16px 0 16px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  border: 1px solid rgb(235, 234, 237);
+  border-radius: 4px;
+  background: rgb(255, 255, 255);
+  gap: 16px;
+}
+
+.project h4 {
+  color: rgb(46, 44, 52);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0px;
+}

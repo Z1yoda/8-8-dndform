@@ -1,0 +1,48 @@
+.containerr {
+  display: flex;
+  justify-content: center;
+}
+.header-wrapper {
+  width: 100%;
+  max-width: 1440px;
+  display: flex;
+  padding: 19px 24px;
+  justify-content: space-between;
+  box-shadow: inset 0px -1px 0px 0px rgb(226, 226, 234);
+  background: rgb(255, 255, 255);
+}
+
+.list-wrap {
+  display: flex;
+  gap: 36px;
+  align-items: center;
+}
+
+.loyihalar {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.profileAspects {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.profileAspects h3 {
+  color: rgb(23, 23, 37);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 14px;
+  letter-spacing: 0.1px;
+}
+
+.loyihalar h2 {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 21px;
+  letter-spacing: 0.1px;
+  color: rgb(146, 146, 157);
+}

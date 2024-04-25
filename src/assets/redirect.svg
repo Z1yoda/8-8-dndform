@@ -1,0 +1,13 @@
+<svg width="16.000000" height="16.000000" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<path id="Vector" d="M8 5.5L8 0.83L6.66 2.16" stroke="#92929D" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+	<path id="Vector" d="M8 0.83L9.33 2.16" stroke="#92929D" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+	<path id="Vector" d="M1.32 8.16L4.26 8.16C4.51 8.16 4.74 8.3 4.85 8.53L5.63 10.09C5.86 10.54 6.32 10.83 6.82 10.83L9.18 10.83C9.68 10.83 10.14 10.54 10.37 10.09L11.15 8.53C11.26 8.3 11.5 8.16 11.74 8.16L14.65 8.16" stroke="#92929D" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+	<path id="Vector" d="M4.66 2.92C2.3 3.26 1.33 4.65 1.33 7.5L1.33 9.5C1.33 12.83 2.66 14.16 5.99 14.16L9.99 14.16C13.33 14.16 14.66 12.83 14.66 9.5L14.66 7.5C14.66 4.65 13.69 3.26 11.33 2.92" stroke="#92929D" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+	<g opacity="0.000000">
+		<path id="Vector" d="M16 -0.5L0 -0.5L0 15.5L16 15.5L16 -0.5ZM1 14.5L1 0.5L15 0.5L15 14.5L1 14.5Z" fill="#92929D" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
